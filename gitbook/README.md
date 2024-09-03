@@ -6,21 +6,15 @@ description: A toolkit for open source researchers
 
 ### Welcome to Bellingcat’s Online Open Source Investigation Toolkit!
 
-
-
 <figure><img src=".gitbook/assets/Toolkit Logo Black.png" alt="" width="250"><figcaption></figcaption></figure>
 
+This is your place to discover tools! Our toolkit includes satellite and mapping services, tools for verifying photos and videos, websites to archive web pages, and much more. Most of the tools that we include can be used for free!
 
-
-This is your place to discover tools! Our toolkit includes satellite and mapping services, tools for verifying photos and videos, websites to archive web pages, and much more. Most of the tools that we include can be used for free.
-
-Bellingcat’s Online Investigation Toolkit has a long tradition but our newest version is special: It is offered in collaboration with the Bellingcat volunteer community. Click on "Details" on the right hand side of each entry (if available) to receive an in-depth description of the tool.&#x20;
+Bellingcat’s Online Investigation Toolkit has a long tradition but our newest version is special: It is offered in collaboration with the Bellingcat volunteer community. Click on "Details" on the right hand side of each entry (if available) to receive an in-depth description of the tool.
 
 <figure><img src=".gitbook/assets/Screenshot 2024-08-08 at 23.49.48.png" alt="" width="375"><figcaption></figcaption></figure>
 
 This toolkit is still a work-in-progress and the number of available tool descriptions will grow over time.
-
-
 
 <details>
 
@@ -38,19 +32,17 @@ You can contribute to Bellingcat's toolkit by submitting toolkit descriptions vi
 
 Bellingcat opens this form several times per year. If you want to be notified via e-mail as soon as it is opens the next time, please add your e-mail address here.
 
-
-
 </details>
 
 <details>
 
 <summary>Bellingcat Team and Contact</summary>
 
-This collaborative toolkit has been designed by Bellingcat staff member Johanna Wild during her 2024 Nieman-Berkman Klein fellowship in Journalism Innovation at Harvard university.&#x20;
+This collaborative toolkit has been designed by Bellingcat staff member Johanna Wild during her 2024 Nieman-Berkman Klein fellowship in Journalism Innovation at Harvard university.
 
-Viktorija Ignatavičiūtė and Galen Reich contributed to defining the volunteer involvement for this project, with Viktorija Ignatavičiūtė supporting our toolkit volunteer community also on a daily basis.&#x20;
+Viktorija Ignatavičiūtė and Galen Reich contributed to defining the volunteer involvement for this project, with Viktorija Ignatavičiūtė supporting our toolkit volunteer community also on a daily basis.
 
-If you have any feedback or questions, please get in touch with Johanna Wild via [toolkit@bellingcat.com](mailto:toolkit@bellingcat.com). Please do not suggest tools that you would like to see added to the toolkit via this e-mail address.&#x20;
+If you have any feedback or questions, please get in touch with Johanna Wild via [toolkit@bellingcat.com](mailto:toolkit@bellingcat.com). Please do not suggest tools that you would like to see added to the toolkit via this e-mail address.
 
 </details>
 
@@ -69,6 +61,3 @@ You can follow [Bellingcat](https://www.bellingcat.com)'s work here:
 We also provide [workshops](https://www.bellingcat.com/workshops/) on open source investigative methods and tools. For those of you interested in becoming a Bellingcat volunteer, have a look at our [volunteer community page](https://sites.google.com/bellingcat.com/bellingcat-volunteer-community/home).
 
 </details>
-
-
-
